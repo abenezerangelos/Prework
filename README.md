@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - Prework
 
 **Prework** is a tip calculator application for iOS.
 
